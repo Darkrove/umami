@@ -2759,11 +2759,12 @@
     "@typescript-eslint/types" "5.62.0"
     eslint-visitor-keys "^3.3.0"
 
-"@umami/prisma-client@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.npmjs.org/@umami/prisma-client/-/prisma-client-0.2.0.tgz"
-  integrity sha512-+27dd4DLl8SvbbIYG1mdm6pIZd+UzQI7eZGNjQ9ONeWO0jr+/wiVnPIXUzd8w4R/OoM4ChpI3mBZPqcWa5MAOw==
+"@umami/prisma-client@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@umami/prisma-client/-/prisma-client-0.3.0.tgz#fea35a44c76af0e4ce58288107cda3ee76fc80ba"
+  integrity sha512-88y/WJX2TEZaUfP+PTretGUL6YdwZCBbhaoeC87eTF3l1aG0Lv3TsmW0lJy5rbKpVqrFJ8zrtvCMP/vt7WeIjg==
   dependencies:
+    chalk "^4.1.2"
     debug "^4.3.4"
 
 "@umami/redis-client@^0.15.0":
