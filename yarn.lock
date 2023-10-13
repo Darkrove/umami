@@ -6385,13 +6385,13 @@ mathml-tag-names@^2.1.3:
   resolved "https://registry.yarnpkg.com/mathml-tag-names/-/mathml-tag-names-2.1.3.tgz#4ddadd67308e780cf16a47685878ee27b736a0a3"
   integrity sha512-APMBEanjybaPzUrfqU0IMU5I0AswKMH7k8OTLs0vvV4KZpExkTkY87nR/zpbuTPj+gARop7aGUbl11pnDfW6xg==
 
-maxmind@^4.3.6:
-  version "4.3.11"
-  resolved "https://registry.npmjs.org/maxmind/-/maxmind-4.3.11.tgz"
-  integrity sha512-tJDrKbUzN6PSA88tWgg0L2R4Ln00XwecYQJPFI+RvlF2k1sx6VQYtuQ1SVxm8+bw5tF7GWV4xyb+3/KyzEpPUw==
+maxmind@^4.3.13:
+  version "4.3.16"
+  resolved "https://registry.yarnpkg.com/maxmind/-/maxmind-4.3.16.tgz#2bc0cef9e55f439933a256d14ac731fcfe1819b4"
+  integrity sha512-bfmiULzt9vO3tZ0SvQOX6cMZMqPCWtncbtNUefeSspoScf8S7n6qB66uOFQN00IWaJUr9oLjtlx3d6M8/KatuQ==
   dependencies:
     mmdb-lib "2.0.2"
-    tiny-lru "11.0.1"
+    tiny-lru "11.2.3"
 
 mdn-data@2.0.14:
   version "2.0.14"
@@ -9203,10 +9203,10 @@ tiny-invariant@^1.0.6:
   resolved "https://registry.npmjs.org/tiny-invariant/-/tiny-invariant-1.3.1.tgz"
   integrity sha512-AD5ih2NlSssTCwsMznbvwMZpJ1cbhkGd2uueNxzv2jDlEeZdU04JQfRnggJQ8DrcVBGjAsCKwFBbDlVNtEMlzw==
 
-tiny-lru@11.0.1:
-  version "11.0.1"
-  resolved "https://registry.npmjs.org/tiny-lru/-/tiny-lru-11.0.1.tgz"
-  integrity sha512-iNgFugVuQgBKrqeO/mpiTTgmBsTP0WL6yeuLfLs/Ctf0pI/ixGqIRm8sDCwMcXGe9WWvt2sGXI5mNqZbValmJg==
+tiny-lru@11.2.3:
+  version "11.2.3"
+  resolved "https://registry.yarnpkg.com/tiny-lru/-/tiny-lru-11.2.3.tgz#9dc04c9bd48b1e196e999e11eee71bc249466145"
+  integrity sha512-mF9jPTrvN7UHk0bekOk3RlFdFwfyS4CJYVsGc7nInL3pVgUCYj5r9X6GpZBFQgLr0TKJo8Dp+F3oRvYzxU9xiA==
 
 to-fast-properties@^2.0.0:
   version "2.0.0"
