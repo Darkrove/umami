@@ -89,7 +89,7 @@
     "is-localhost-ip": "^1.4.0",
     "isbot": "^3.4.5",
     "kafkajs": "^2.1.0",
-    "maxmind": "^4.3.6",
+    "maxmind": "^4.3.13",
     "moment-timezone": "^0.5.35",
     "next": "13.5.2",
     "next-basics": "^0.36.0",
