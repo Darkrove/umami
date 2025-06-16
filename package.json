@@ -78,7 +78,7 @@
     "date-fns-tz": "^1.1.4",
     "dateformat": "^5.0.3",
     "debug": "^4.3.4",
-    "del": "^6.0.0",
+    "del": "^8.0.0",
     "detect-browser": "^5.2.0",
     "dotenv": "^10.0.0",
     "fs-extra": "^10.0.1",
