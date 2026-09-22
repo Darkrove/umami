@@ -4,6 +4,7 @@
   "description": "A modern, privacy-focused alternative to Google Analytics.",
   "author": "Umami Software, Inc. <hello@umami.is>",
   "license": "MIT",
+  "packageManager": "pnpm@12.3.4",
   "homepage": "https://umami.is",
   "repository": {
     "type": "git",
